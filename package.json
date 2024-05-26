@@ -1,0 +1,16 @@
+{
+  "name": "backend-mega-project",
+  "version": "1.0.0",
+  "description": "a mega backend learning class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javacript",
+    "learning",
+    "backend"
+  ],
+  "author": "Pankaj Develops",
+  "license": "ISC"
+}
